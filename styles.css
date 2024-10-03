@@ -1,0 +1,49 @@
+.pin {
+    width: 275px;
+    height: 300px;
+    border-radius: 15px;
+    border: 3px solid green;
+    position: absolute;
+}
+
+h2 {
+    position: absolute;
+    width: 275px;
+    height: 30px;
+    text-align: center;
+}
+
+h3 {
+    position: absolute;
+    width: 275px;
+    height: 45px;
+    text-align: center;
+    top: 120px;
+    border-radius: 15px;
+}
+
+img {
+    width: 275px;
+    height: 300px;
+    border-radius: 12px;
+}
+
+.movies {
+    height: 400px;
+    top: 350px;
+}
+
+.snoopymusic {
+    height: 250px;
+    left: 400px;
+}
+
+.fashion {
+    left: 400px;
+    top: 300px;
+}
+
+.reading {
+    height: 400px;
+    left: 800px;
+}
